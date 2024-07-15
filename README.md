@@ -230,4 +230,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [MaterialUI.com]: https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white
 [MaterialUI-url]: https://mui.com/material-ui/
 [RapidAPI.com]: https://img.shields.io/badge/Rapid%20API-007FFF?style=for-the-badge&logo
-[RapidAPI.url]: https://rapidapi.com/
+[RapidAPI-url]: https://rapidapi.com/
