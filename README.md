@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+React.js
+Material UI
+Rapid API
+
+1. npx create-react-app ./
+2. npm install --legacy-peer-deps //install dependencies
+3. npm install @fontsource/roboto // Material UI default font
