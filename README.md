@@ -32,7 +32,7 @@
     <!-- project_description -->
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://jsmmedia.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@
 
 ## About The Project
 
-[![Youtube Clone Screen Shot][product-screenshot]](https://example.com)
+[![Youtube Clone Screen Shot][product-screenshot]](https://jsmmedia.netlify.app/)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
