@@ -30,8 +30,8 @@
 
   <p align="center">
     <!-- project_description -->
-    <br />
-    <br />
+    <!-- <br />
+    <br /> -->
     <a href="https://jsmmedia.netlify.app/">View Demo</a>
   </p>
 </div>
