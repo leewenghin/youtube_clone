@@ -29,7 +29,7 @@
 <h3 align="center">Youtube Clone</h3>
 
   <p align="center">
-    project_description
+    <!-- project_description -->
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
